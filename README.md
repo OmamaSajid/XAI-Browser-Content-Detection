@@ -18,7 +18,9 @@ The project is designed as a browser extension, enabling users to analyze digita
 - **Browser Extension:** User-facing interface for accessible content analysis.
 - **Backend API:** FastAPI-based integration of detection models and browser functionality.
 <img width="1295" height="802" alt="Screenshot 2026-08-18 110624" src="https://github.com/user-attachments/assets/5b41893d-51e0-444f-a1c0-8a91ced82e34" />
+
 <img width="672" height="395" alt="Screenshot 2026-08-17 151820" src="https://github.com/user-attachments/assets/8ddb4f57-d07d-4f6e-a1eb-487006e89296" />
+
 <img width="354" height="278" alt="Screenshot 2026-08-17 150917" src="https://github.com/user-attachments/assets/4fbfb93b-8042-4b57-a482-979f6abf0882" />
 
 
